@@ -1,0 +1,308 @@
+{
+  "settings": {
+    "schoolName": {
+      "sq": "Shkolla Fillore Vrapçisht",
+      "en": "Vrapçisht Primary School",
+      "tr": "Vrapçişte İlkokulu",
+      "mk": "Основно училиште Врапчиште"
+    },
+    "logoText": "SHV",
+    "logoImage": "",
+    "phone": "+389 70 123 456",
+    "email": "info@vrapcishtschool.com",
+    "address": {
+      "sq": "Vrapçisht, Gostivar, Maqedonia e Veriut",
+      "en": "Vrapçisht, Gostivar, North Macedonia",
+      "tr": "Vrapçişte, Gostivar, Kuzey Makedonya",
+      "mk": "Врапчиште, Гостивар, Северна Македонија"
+    },
+    "hours": {
+      "sq": "E hënë - E premte: 7:00 - 14:30",
+      "en": "Monday - Friday: 7:00 - 14:30",
+      "tr": "Pazartesi - Cuma: 7:00 - 14:30",
+      "mk": "Понеделник - Петок: 7:00 - 14:30"
+    },
+    "facebook": "#",
+    "instagram": "#",
+    "youtube": "#",
+    "heroImage": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=1500&q=80",
+    "heroBadge": {
+      "sq": "Mirë se vini",
+      "en": "Welcome",
+      "tr": "Hoş geldiniz",
+      "mk": "Добредојдовте"
+    },
+    "heroTitle": {
+      "sq": "Shkolla Fillore Vrapçisht",
+      "en": "Vrapçisht Primary School",
+      "tr": "Vrapçişte İlkokulu",
+      "mk": "Основно училиште Врапчиште"
+    },
+    "heroSubtitle": {
+      "sq": "Ndërtojmë ardhjen e brezit të ri përmes edukimit cilësor",
+      "en": "We build the future through quality education",
+      "tr": "Kaliteli eğitimle geleceği inşa ediyoruz",
+      "mk": "Ја градиме иднината преку квалитетно образование"
+    },
+    "aboutTitle": {
+      "sq": "Një traditë arsimore në Vrapçisht",
+      "en": "An educational tradition in Vrapçisht",
+      "tr": "Vrapçişte’de eğitim geleneği",
+      "mk": "Образовна традиција во Врапчиште"
+    },
+    "aboutText": {
+      "sq": "Shkolla jonë është qendër e edukimit dhe zhvillimit të nxënësve. Këtu mund ta redaktoni historinë, misionin dhe çdo tekst nga admin paneli.",
+      "en": "Our school is a center for education and student development. You can edit this text from the admin panel.",
+      "tr": "Okulumuz eğitim ve gelişim merkezidir. Bu metni yönetim panelinden düzenleyebilirsiniz.",
+      "mk": "Нашето училиште е центар за образование и развој. Овој текст се уредува од админ панелот."
+    },
+    "feature1Title": {
+      "sq": "Mësim Cilësor",
+      "en": "Quality Education",
+      "tr": "Kaliteli Eğitim",
+      "mk": "Квалитетна настава"
+    },
+    "feature1Desc": {
+      "sq": "Përmbajtje e redaktueshme nga paneli.",
+      "en": "Content editable from the admin panel.",
+      "tr": "İçerik yönetim panelinden düzenlenebilir.",
+      "mk": "Содржина што се уредува од админ панел."
+    },
+    "feature2Title": {
+      "sq": "Staf i Përkushtuar",
+      "en": "Dedicated Staff",
+      "tr": "Özverili Kadro",
+      "mk": "Посветен кадар"
+    },
+    "feature2Desc": {
+      "sq": "Lista e mësimdhënësve menaxhohet nga admin.",
+      "en": "The teacher list is managed from the admin panel.",
+      "tr": "Öğretmen listesi yönetim panelinden düzenlenir.",
+      "mk": "Списокот на наставници се управува од админ панел."
+    },
+    "feature3Title": {
+      "sq": "Aktivitete",
+      "en": "Activities",
+      "tr": "Etkinlikler",
+      "mk": "Активности"
+    },
+    "feature3Desc": {
+      "sq": "Lajme, galeri dhe dokumente të editueshme.",
+      "en": "Editable news, gallery and documents.",
+      "tr": "Düzenlenebilir haberler, galeri ve belgeler.",
+      "mk": "Вести, галерија и документи што се уредуваат."
+    },
+    "latestNewsTitle": {
+      "sq": "Lajmet e Fundit",
+      "en": "Latest News",
+      "tr": "Son Haberler",
+      "mk": "Најнови вести"
+    },
+    "partnersTitle": {
+      "sq": "PARTNERËT",
+      "en": "PARTNERS",
+      "tr": "ORTAKLAR",
+      "mk": "ПАРТНЕРИ"
+    },
+    "studentsLabel": {
+      "sq": "NXËNËS",
+      "en": "STUDENTS",
+      "tr": "ÖĞRENCİ",
+      "mk": "УЧЕНИЦИ"
+    },
+    "staffLabel": {
+      "sq": "STAF",
+      "en": "STAFF",
+      "tr": "KADRO",
+      "mk": "КАДАР"
+    },
+    "foundedLabel": {
+      "sq": "THEMELUAR",
+      "en": "FOUNDED",
+      "tr": "KURULUŞ",
+      "mk": "ОСНОВАНО"
+    },
+    "areaLabel": {
+      "sq": "M²",
+      "en": "M²",
+      "tr": "M²",
+      "mk": "M²"
+    },
+    "students": "620",
+    "staff": "58",
+    "founded": "1965",
+    "area": "4200",
+    "partners": [
+      "Ministria e Arsimit",
+      "Komuna e Vrapçishtit",
+      "BRO",
+      "USAID",
+      "Erasmus+"
+    ],
+    "timeline": [
+      {
+        "year": "1965",
+        "title": {
+          "sq": "Themelimi",
+          "en": "Founded",
+          "tr": "Kuruluş",
+          "mk": "Основање"
+        },
+        "text": {
+          "sq": "Fillimi i punës së shkollës.",
+          "en": "The school begins its work.",
+          "tr": "Okul faaliyete başladı.",
+          "mk": "Училиштето започна со работа."
+        }
+      },
+      {
+        "year": "2024",
+        "title": {
+          "sq": "Modernizimi",
+          "en": "Modernization",
+          "tr": "Modernizasyon",
+          "mk": "Модернизација"
+        },
+        "text": {
+          "sq": "Përmirësim i kushteve dhe aktiviteteve.",
+          "en": "Improved conditions and activities.",
+          "tr": "Şartlar ve etkinlikler iyileştirildi.",
+          "mk": "Подобрени услови и активности."
+        }
+      }
+    ]
+  },
+  "news": [
+    {
+      "id": "n1",
+      "title": {
+        "sq": "Ekspozitë e nxënësve",
+        "en": "Student exhibition",
+        "tr": "Öğrenci sergisi",
+        "mk": "Изложба на ученици"
+      },
+      "excerpt": {
+        "sq": "Përshkrim i shkurtër i lajmit. Redaktohet nga admin paneli.",
+        "en": "Short news description. Editable from the admin panel.",
+        "tr": "Kısa haber açıklaması. Yönetim panelinden düzenlenir.",
+        "mk": "Краток опис на веста. Се уредува од админ панел."
+      },
+      "date": "2026-06-01",
+      "category": {
+        "sq": "Aktivitete",
+        "en": "Activities",
+        "tr": "Etkinlikler",
+        "mk": "Активности"
+      },
+      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=1500&q=80"
+    },
+    {
+      "id": "n2",
+      "title": {
+        "sq": "Olimpiada e matematikës",
+        "en": "Mathematics Olympiad",
+        "tr": "Matematik Olimpiyatı",
+        "mk": "Математичка олимпијада"
+      },
+      "excerpt": {
+        "sq": "Përshkrim i shkurtër i lajmit. Redaktohet nga admin paneli.",
+        "en": "Short news description. Editable from the admin panel.",
+        "tr": "Kısa haber açıklaması. Yönetim panelinden düzenlenir.",
+        "mk": "Краток опис на веста. Се уредува од админ панел."
+      },
+      "date": "2026-06-01",
+      "category": {
+        "sq": "Aktivitete",
+        "en": "Activities",
+        "tr": "Etkinlikler",
+        "mk": "Активности"
+      },
+      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=1500&q=80"
+    },
+    {
+      "id": "n3",
+      "title": {
+        "sq": "Turneu i futbollit",
+        "en": "Football tournament",
+        "tr": "Futbol turnuvası",
+        "mk": "Фудбалски турнир"
+      },
+      "excerpt": {
+        "sq": "Përshkrim i shkurtër i lajmit. Redaktohet nga admin paneli.",
+        "en": "Short news description. Editable from the admin panel.",
+        "tr": "Kısa haber açıklaması. Yönetim panelinden düzenlenir.",
+        "mk": "Краток опис на веста. Се уредува од админ панел."
+      },
+      "date": "2026-06-01",
+      "category": {
+        "sq": "Aktivitete",
+        "en": "Activities",
+        "tr": "Etkinlikler",
+        "mk": "Активности"
+      },
+      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=1500&q=80"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "t1",
+      "name": {
+        "sq": "Arben Rama",
+        "en": "Arben Rama",
+        "tr": "Arben Rama",
+        "mk": "Арбен Рама"
+      },
+      "role": {
+        "sq": "Drejtor",
+        "en": "Principal",
+        "tr": "Müdür",
+        "mk": "Директор"
+      },
+      "subject": {
+        "sq": "Matematikë",
+        "en": "Mathematics",
+        "tr": "Matematik",
+        "mk": "Математика"
+      },
+      "bio": {
+        "sq": "Biografi e shkurtër.",
+        "en": "Short biography.",
+        "tr": "Kısa biyografi.",
+        "mk": "Кратка биографија."
+      },
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "g1",
+      "caption": {
+        "sq": "Aktivitet shkollor",
+        "en": "School activity",
+        "tr": "Okul etkinliği",
+        "mk": "Училишна активност"
+      },
+      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=1500&q=80"
+    }
+  ],
+  "documents": [
+    {
+      "id": "d1",
+      "title": {
+        "sq": "Njoftim për prindër",
+        "en": "Notice for parents",
+        "tr": "Veliler için duyuru",
+        "mk": "Известување за родители"
+      },
+      "desc": {
+        "sq": "Dokument shembull.",
+        "en": "Sample document.",
+        "tr": "Örnek belge.",
+        "mk": "Пример документ."
+      },
+      "date": "2026-06-01",
+      "fileName": "njoftim.pdf",
+      "file": "#"
+    }
+  ]
+}
