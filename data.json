@@ -1,10 +1,10 @@
 {
   "settings": {
     "schoolName": {
-      "sq": "Shkolla Fillore Vrapçisht",
-      "en": "Vrapçisht Primary School",
-      "tr": "Vrapçişte İlkokulu",
-      "mk": "Основно училиште Врапчиште"
+      "sq": "Shkolla Fillore Komunale Vrapçisht",
+      "en": "The public primary school runs away.",
+      "tr": "Devlet ilkokulu kaçar.",
+      "mk": "Јавното основно училиште бега."
     },
     "logoText": "SHV",
     "logoImage": "",
@@ -12,15 +12,15 @@
     "email": "info@vrapcishtschool.com",
     "address": {
       "sq": "Vrapçisht, Gostivar, Maqedonia e Veriut",
-      "en": "Vrapçisht, Gostivar, North Macedonia",
-      "tr": "Vrapçişte, Gostivar, Kuzey Makedonya",
-      "mk": "Врапчиште, Гостивар, Северна Македонија"
+      "en": "From Gostivar, North Macedonia",
+      "tr": "Gostivar, Kuzey Makedonya'dan",
+      "mk": "Од Гостивар, Северна Македонија"
     },
     "hours": {
       "sq": "E hënë - E premte: 7:00 - 14:30",
       "en": "Monday - Friday: 7:00 - 14:30",
       "tr": "Pazartesi - Cuma: 7:00 - 14:30",
-      "mk": "Понеделник - Петок: 7:00 - 14:30"
+      "mk": "Понеделник - петок: 7:00 - 14:30"
     },
     "facebook": "#",
     "instagram": "#",
